@@ -1,10 +1,18 @@
 # PAPERS — Casa de Zi
 Serie de 10 papers: accesibilidad como fundamento, IA 100% local, $0 nube.
-Paper 1: Programado para Humanos. El 9 (T9 MX) viene en camino.
+Escrito por Omar Abdiel Alvarado (Colima, MX) con sus heraldos IA.
 
-## BUSCAMOS COLABORADORES — no fama
-Si dos cabezas piensan mejor que una, imagina lo que haremos tú y yo.
-- Humano primero: respondemos a LECTORES, no bots.
-- Fail-closed: "no sé" es válida; el dato sin verificar no se afirma.
-- Errores: se reconocen, se corrigen, se sigue. Así se construye.
-- Abrir issue o PR. Sin jerarquías: la idea vale por sí misma.
+## PAPERS
+1. [Programado para Humanos](paper1_programado_para_humanos.md) — v0.1 (release: v0.1-paper1)
+9. T9 MX: 46ns contra la alucinación — en camino
+
+## CÓMO LEER / CONTRIBUIR
+- Lee el paper completo antes de opinar (leer los hace libres).
+- Ideas/correcciones: abre un issue. Cambios: PR pequeña.
+- Respondemos a LECTORES, no bots. Fail-closed: dato sin fuente = NO ENCONTRADO.
+
+## CASA DE ZI
+IA local con memoria persistente, voz es-MX, $0 nube. Ver también:
+[nollama-t9mx](https://github.com/OmarAbdielAlvarado/nollama-t9mx) ·
+[oidos](https://github.com/OmarAbdielAlvarado/oidos) ·
+[vemos](https://github.com/OmarAbdielAlvarado/vemos)
