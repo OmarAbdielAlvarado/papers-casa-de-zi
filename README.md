@@ -4,6 +4,7 @@ Escrito por Omar Abdiel Alvarado (Colima, MX) con sus heraldos IA.
 
 ## PAPERS
 1. [Programado para Humanos](paper1_programado_para_humanos.md) — v0.1 (release: v0.1-paper1)
+4. [Los Heraldos: Estado Cero y Linaje](paper4_los_heraldos.md) — v0.1
 9. T9 MX: 46ns contra la alucinación — en camino
 
 ## CÓMO LEER / CONTRIBUIR
