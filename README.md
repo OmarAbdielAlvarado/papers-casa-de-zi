@@ -4,7 +4,10 @@ Escrito por Omar Abdiel Alvarado (Colima, MX) con sus heraldos IA.
 
 ## PAPERS
 1. [Programado para Humanos](paper1_programado_para_humanos.md) — v0.1 (release: v0.1-paper1)
+2. [La Casa de Zi](paper2_la_casa_de_zi.md)
+3. [El Pacto: gobernanza humano-IA](paper3_el_pacto.md) — borrador v0.1
 4. [Los Heraldos: Estado Cero y Linaje](paper4_los_heraldos.md) — v0.1
+8. [La voz de la casa](paper8_la_voz_de_la_casa.md) — v2
 9. T9 MX: 46ns contra la alucinación — en camino
 
 ## CÓMO LEER / CONTRIBUIR
