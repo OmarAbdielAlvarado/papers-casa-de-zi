@@ -20,3 +20,4 @@ IA local con memoria persistente, voz es-MX, $0 nube. Ver también:
 [nollama-t9mx](https://github.com/OmarAbdielAlvarado/nollama-t9mx) ·
 [oidos](https://github.com/OmarAbdielAlvarado/oidos) ·
 [vemos](https://github.com/OmarAbdielAlvarado/vemos)
+- Paper 5: [Los Recibos](paper5_los_recibos.md)
